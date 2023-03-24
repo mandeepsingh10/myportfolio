@@ -352,7 +352,7 @@ nav ul li a:hover::after{
     display: inline-block;
     background: #262626;
     border: none;
-    margin-left: -20px;
+    margin-left: 0px;
 }
 .contact-right form{
     width: 100%;
