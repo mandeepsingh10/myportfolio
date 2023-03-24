@@ -354,6 +354,12 @@ nav ul li a:hover::after{
     border-width: 2px;
     margin-left: 0px;
 }
+.btn.btn4{
+    border-width: 2px; 
+}
+.btn.btn4:hover{
+    background: #ff004f;
+}
 .contact-right form{
     width: 100%;
 }
